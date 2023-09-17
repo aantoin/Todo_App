@@ -1,0 +1,11 @@
+{
+  "python.analysis.include": [
+    "config",
+    "tests",
+    "todo_app"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
